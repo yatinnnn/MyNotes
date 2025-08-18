@@ -6,15 +6,21 @@ It allows users to create, view, and delete notes with a clean UI inspired by Go
 🚀 Features
 
 ✏️ Create and save notes
+
 🗑️ Delete notes easily
-🎨 Responsive UI (React + CSS)
+
+🎨 Responsive UI (React + CSS
+)
 ⚡ Fast and lightweight MERN application
 
 🛠️ Tech Stack
 
 Frontend: React.js, CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Other Tools: Git, npm
 
 ⚙️ Installation & Setup
