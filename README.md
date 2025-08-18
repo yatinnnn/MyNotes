@@ -9,8 +9,8 @@ It allows users to create, view, and delete notes with a clean UI inspired by Go
 
 🗑️ Delete notes easily
 
-🎨 Responsive UI (React + CSS
-)
+🎨 Responsive UI (React + CSS)
+
 ⚡ Fast and lightweight MERN application
 
 🛠️ Tech Stack
