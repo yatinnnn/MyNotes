@@ -46,16 +46,24 @@ npm start</pre>
 
 Open http://localhost:3000/ in your browser 🚀
 
+
 🔮 Future Improvements
 
 🔐 User authentication & login system
+
 🔍 Search functionality for notes
+
 📝 Edit notes functionality
+
 🌙 Dark mode
+
 
 🎯 Learning Outcomes
 
 Gained hands-on experience with MERN full-stack development.
+
 Learned to design REST APIs and connect them with MongoDB.
+
 Practiced component-based architecture in React.
+
 Worked with state management and responsive UI design.
